@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Navigate to Holiday List on LMS, validate the count of Public Holidays and generate report
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.316 s - in Navigate to Holiday List on LMS, validate the count of Public Holidays and generate report
